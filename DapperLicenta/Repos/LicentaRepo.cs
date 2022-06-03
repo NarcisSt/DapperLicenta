@@ -4,7 +4,6 @@ using DapperLicenta.Models;
 using Npgsql;
 using StackExchange.Profiling;
 using System.Data;
-using System.Data.SqlClient;
 
 namespace DapperLicenta.Repos
 {
